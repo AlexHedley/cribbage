@@ -1,0 +1,12 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "Week off Game 1",
+            "date": "2020-09-28",
+            "description": "",
+            "winner": "Alex H",
+            "loser": "Courtney"
+        }
+    ]
+}
