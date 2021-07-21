@@ -1,5 +1,7 @@
 # Cribbage
 
+![Cribbage](images/cribbage.jpg "Cribbage")
+
 Cribbage scores
 
 - [Site](https://alexhedley.github.io/cribbage)
